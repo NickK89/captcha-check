@@ -1,9 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
-venv/
-.vscode/
 screenshots/
 urls.txt
 report.csv
-report.txt
